@@ -1,0 +1,19 @@
+body {
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.878)
+}
+
+h1 {
+    font-style: oblique;
+    text-align: center;
+}
+
+h2 {
+    font-style: oblique;
+    text-align: center;
+}
+
+p {
+    color: darkcyan;
+    text-align: left;
+}
